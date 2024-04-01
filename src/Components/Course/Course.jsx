@@ -11,7 +11,7 @@ function Course({course,handleSelectBtn}) {
           <small>Price : {course_price} $</small>
           <small>Credit : {credit} hrs.</small>
        </div>
-       <button onClick={()=>handleSelectBtn(course)} className='w-full bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline'>Start</button>
+       <button onClick={()=>handleSelectBtn(course,credit,course_price)} className='w-full bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline'>Start</button>
     </div>
   )
 }
