@@ -1,0 +1,8 @@
+.startBtn{
+    height: 40px;
+    width: 280px;
+    border: 1px solid #2F80ED;
+    border-radius: 5px;
+    background-color: #2F80ED;
+    color:white;
+}

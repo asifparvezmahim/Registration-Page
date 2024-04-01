@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "course_title": "C for CP",
+      "course_img": "https://i.ibb.co/4gmQg5R/C.png",
+      "details": "Explore complex quantum phenomena. Mathematical rigor emphasized.",
+      "credit": 10 ,
+      "course_price": 150
+    },
+    {
+      "id": 2,
+      "course_title": "C++ for DSA",
+      "course_img": "https://i.ibb.co/x7TGxJm/C.jpg",
+      "details": "Learn SEO, SEM, and social media strategies for business. Perfect for Comp. Programming",
+      "credit": 6,
+      "course_price": 120
+    },
+    {
+      "id": 4,
+      "course_title": "Advance Algorithms",
+      "course_img": "https://i.ibb.co/M1cfsf7/Algorithm-2.jpg",
+      "details": "Beginner-friendly introduction to Python programming fundamentals.Will Helpful for ML",
+      "credit": 10,
+      "course_price": 180
+    },
+    {
+      "id": 5,
+      "course_title": "Python for OOP",
+      "course_img": "https://i.ibb.co/qCGkpDQ/Python-OOP.png",
+      "details": "Master composition, lighting, and post-processing techniques.Helpful for Django. So, Why are you waiting??Let's Start",
+      "credit": 2,
+      "course_price": 50
+    },
+    {
+      "id": 6,
+      "course_title": "Database with MySQL",
+      "course_img": "https://i.ibb.co/khZN6Rd/Database.png",
+      "details": "Basic to Advance Understand budgeting, investments, and retirement planning basics.Best for Starters",
+      "credit": 5,
+      "course_price": 100
+    },
+    {
+      "id": 7,
+      "course_title": "Software Development",
+      "course_img": "https://i.ibb.co/9qsh1HX/Software.png",
+      "details": "Learn nutritious recipes and cooking techniques for a balanced diet.Focus on Back End with Django Framework.You Can Start",
+      "credit": 12,
+      "course_price": 180
+    },
+    {
+      "id": 8,
+      "course_title": "Web Development",
+      "course_img": "https://i.ibb.co/PcGt5Hx/Web-Dev.jpg",
+      "details": "Explore the basics of AI, including machine learning and neural networks.",
+      "credit": 12,
+      "course_price": 180
+    }
+  ]
+  
